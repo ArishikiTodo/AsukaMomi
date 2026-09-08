@@ -409,7 +409,7 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#77A1D9",
-    "backgroundImageUrl": "https://media.githubusercontent.com/media/ArishikiTodo/AsukaMomi/refs/heads/main/marie_rose_1.gif",
+    "backgroundImageUrl": "https://media.githubusercontent.com/media/ArishikiTodo/AsukaMomi/refs/heads/main/marie_rose_720x1179.gif",
     "backgroundAlpha": 0.4,
     "blur": 0.75,
     "customOverlays": true,
@@ -453,7 +453,7 @@
     }
   },
   "background": {
-    "url": "https://media.githubusercontent.com/media/ArishikiTodo/AsukaMomi/refs/heads/main/marie_rose_1.gif",
+    "url": "https://media.githubusercontent.com/media/ArishikiTodo/AsukaMomi/refs/heads/main/marie_rose_720x1179.gif",
     "alpha": 0.55,
     "blur": 0
   }
