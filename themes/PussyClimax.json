@@ -421,7 +421,7 @@
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/ArishikiTodo/AsukaMomi/main/2094413483945193906.jpg",
-    "alpha": 0.35,
-    "blur": 0.8
+    "alpha": 0.7,
+    "blur": 0
   }
 }
