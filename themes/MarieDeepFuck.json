@@ -420,7 +420,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://media.githubusercontent.com/media/ArishikiTodo/AsukaMomi/refs/heads/main/marie_rose_720x1179.gif",
+    "url": "https://cdn.jsdelivr.net/gh/ArishikiTodo/AsukaMomi@48a58c5220b90bdabc1cef19f7010af25c904f50/marie_rose_focus_v1.gif",
     "alpha": 0.7,
     "blur": 0
   }
