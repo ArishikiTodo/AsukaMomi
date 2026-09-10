@@ -1,0 +1,427 @@
+{
+  "name": "Asuka wall dildo anim",
+  "description": "Arishiki Todo",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Shiki",
+      "id": "1475324661649637427"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#5C3830"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#70403366"
+    ],
+    "CHAT_BACKGROUND": [
+      "#171113"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#8A4D3D"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#171113"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#70403333"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#7040334D"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#292124"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#171113"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#171113"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#292124"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#392D30"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#493B3F"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#292124"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#493B3F"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#171113"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#21191B"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#292124"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#392D30"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#171113"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#21191B"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#292124"
+    ],
+    "BG_BACKDROP": [
+      "#17111399"
+    ],
+    "HOME_BACKGROUND": [
+      "#21191B"
+    ],
+    "BORDER_FAINT": [
+      "#392D30"
+    ],
+    "BORDER_STRONG": [
+      "#493B3F"
+    ],
+    "BORDER_SUBTLE": [
+      "#21191B"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#292124"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#392D30"
+    ],
+    "CHANNEL_ICON": [
+      "#8A4D3D"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#292124"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#9B9395"
+    ],
+    "EMBED_BACKGROUND": [
+      "#292124"
+    ],
+    "HEADER_PRIMARY": [
+      "#D8D2D2"
+    ],
+    "HEADER_SECONDARY": [
+      "#B8B0B2"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#D8D2D2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#B8B0B2"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#756D70"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#9B9395"
+    ],
+    "MENTION_BACKGROUND": [
+      "#70403333"
+    ],
+    "MENTION_FOREGROUND": [
+      "#8A4D3D"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#171113"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#292124"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#5C3830"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#5C3830"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#171113"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#C85A62"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#8A4D3D"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#D8D2D2"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#292124"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#5C3830"
+    ],
+    "STATUS_DANGER": [
+      "#8A4D3D"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#8A4D3D"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#171113"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#292124"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#171113"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#704033"
+    ],
+    "TEXT_LINK": [
+      "#8A4D3D"
+    ],
+    "TEXT_MUTED": [
+      "#756D70"
+    ],
+    "TEXT_NORMAL": [
+      "#9B9395"
+    ],
+    "TEXT_PRIMARY": [
+      "#D8D2D2"
+    ],
+    "TEXT_SECONDARY": [
+      "#B8B0B2"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#704033"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#493B3F"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent"
+    ],
+    "KEYBOARD": [
+      "#171113"
+    ],
+    "PANEL_BG": [
+      "#21191B"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#21191B"
+    ],
+    "REPLY_BAR": [
+      "#8A4D3D"
+    ]
+  },
+  "rawColors": {
+    "BLUE_260": "#B8B0B2",
+    "BLUE_300": "#B8B0B2",
+    "BLUE_330": "#B8B0B2",
+    "BLUE_345": "#D8D2D2",
+    "BLUE_360": "#5C3830",
+    "BLUE_400": "#704033",
+    "BLUE_430": "#292124",
+    "BLUE_460": "#171113",
+    "BLUE_500": "#21191B",
+    "BLUE_530": "#21191B",
+    "BLUE_560": "#171113",
+    "BLUE_600": "#21191B",
+    "BLUE_630": "#21191B",
+    "BLUE_660": "#21191B",
+    "BLUE_700": "#21191B",
+    "BRAND_200": "#B8B0B2",
+    "BRAND_260": "#B8B0B2",
+    "BRAND_300": "#B8B0B2",
+    "BRAND_330": "#B8B0B2",
+    "BRAND_345": "#D8D2D2",
+    "BRAND_360": "#D8D2D2",
+    "BRAND_400": "#B8B0B2",
+    "BRAND_430": "#292124",
+    "BRAND_460": "#292124",
+    "BRAND_500": "#704033",
+    "BRAND_530": "#292124",
+    "BRAND_560": "#D8D2D2",
+    "BRAND_600": "#21191B",
+    "BRAND_630": "#21191B",
+    "BRAND_660": "#21191B",
+    "BRAND_700": "#21191B",
+    "BRAND_730": "#171113",
+    "PLUM_1": "#B8B0B2",
+    "PLUM_10": "#B8B0B2",
+    "PLUM_11": "#B8B0B2",
+    "PLUM_13": "#292124",
+    "PLUM_15": "#21191B",
+    "PLUM_16": "#292124",
+    "PLUM_17": "#171113",
+    "PLUM_18": "#21191B",
+    "PLUM_19": "#21191B",
+    "PLUM_20": "#21191B",
+    "PLUM_21": "#292124",
+    "PLUM_22": "#21191B",
+    "PLUM_24": "#171113",
+    "PLUM_25": "#21191B",
+    "PLUM_3": "#D8D2D2",
+    "PLUM_4": "#D8D2D2",
+    "PLUM_6": "#D8D2D2",
+    "PLUM_9": "#B8B0B2",
+    "PRIMARY_100": "#D8D2D2",
+    "PRIMARY_200": "#D8D2D2",
+    "PRIMARY_300": "#B8B0B2",
+    "PRIMARY_330": "#B8B0B2",
+    "PRIMARY_360": "#D8D2D2",
+    "PRIMARY_400": "#D8D2D2",
+    "PRIMARY_460": "#292124",
+    "PRIMARY_500": "#704033",
+    "PRIMARY_530": "#292124",
+    "PRIMARY_600": "#171113",
+    "PRIMARY_630": "#21191B",
+    "PRIMARY_645": "#21191B",
+    "PRIMARY_660": "#21191B",
+    "PRIMARY_700": "#21191B",
+    "PRIMARY_730": "#21191B",
+    "PRIMARY_800": "#21191B",
+    "GREEN_260": "#B8B0B2",
+    "GREEN_300": "#B8B0B2",
+    "GREEN_330": "#B8B0B2",
+    "GREEN_345": "#D8D2D2",
+    "GREEN_360": "#B8B0B2",
+    "GREEN_400": "#B8B0B2",
+    "GREEN_430": "#292124",
+    "GREEN_460": "#292124",
+    "GREEN_500": "#704033",
+    "GREEN_530": "#292124",
+    "GREEN_560": "#171113",
+    "GREEN_600": "#21191B",
+    "GREEN_630": "#21191B",
+    "GREEN_660": "#21191B",
+    "GREEN_700": "#21191B",
+    "GUILD_BOOSTING_PINK": "#704033",
+    "GUILD_BOOSTING_PURPLE": "#704033",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#704033",
+    "RED_260": "#B8B0B2",
+    "RED_300": "#B8B0B2",
+    "RED_330": "#B8B0B2",
+    "RED_345": "#B8B0B2",
+    "RED_360": "#B8B0B2",
+    "RED_400": "#B8B0B2",
+    "RED_430": "#B8B0B2",
+    "RED_460": "#292124",
+    "RED_500": "#704033",
+    "RED_530": "#292124",
+    "RED_560": "#171113",
+    "RED_600": "#21191B",
+    "RED_630": "#21191B",
+    "RED_660": "#21191B",
+    "RED_700": "#21191B",
+    "ROLE_DEFAULT": "#292124",
+    "ORANGE_260": "#B8B0B2",
+    "ORANGE_300": "#B8B0B2",
+    "ORANGE_330": "#B8B0B2",
+    "ORANGE_345": "#D8D2D2",
+    "ORANGE_360": "#5C3830",
+    "ORANGE_400": "#704033",
+    "ORANGE_430": "#292124",
+    "ORANGE_460": "#171113",
+    "ORANGE_500": "#21191B",
+    "ORANGE_530": "#21191B",
+    "ORANGE_560": "#171113",
+    "ORANGE_600": "#21191B",
+    "ORANGE_630": "#21191B",
+    "ORANGE_660": "#21191B",
+    "ORANGE_700": "#21191B",
+    "YELLOW_260": "#B8B0B2",
+    "YELLOW_300": "#B8B0B2",
+    "YELLOW_330": "#B8B0B2",
+    "YELLOW_345": "#D8D2D2",
+    "YELLOW_360": "#5C3830",
+    "YELLOW_400": "#704033",
+    "YELLOW_430": "#292124",
+    "YELLOW_460": "#171113",
+    "YELLOW_500": "#21191B",
+    "YELLOW_530": "#21191B",
+    "YELLOW_560": "#171113",
+    "YELLOW_600": "#21191B",
+    "YELLOW_630": "#21191B",
+    "YELLOW_660": "#21191B",
+    "YELLOW_700": "#21191B",
+    "WHITE_500": "#D8D2D2",
+    "WHITE_630": "#B8B0B2"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#8A4D3D",
+    "customIconOverlays": true,
+    "customMessageMentionLineColor": true,
+    "icons": {
+      "ic_new_pins": [
+        "#8A4D3D"
+      ],
+      "reply_bar": [
+        "#8A4D3D"
+      ],
+      "mention_pill": [
+        "#8A4D3D"
+      ],
+      "mention_line": [
+        "#8A4D3D"
+      ],
+      "StatusOnline": [
+        "#8A4D3D"
+      ],
+      "StatusMobileOnline": [
+        "#8A4D3D"
+      ],
+      "StatusIdle": [
+        "#D8D2D2"
+      ],
+      "StatusDND": [
+        "#171113"
+      ],
+      "StatusOffline": [
+        "#171113"
+      ],
+      "StatusStreaming": [
+        "#5C3830"
+      ]
+    },
+    "themes+": {
+      "customIconOverlays": true,
+      "customMessageMentionLineColor": true
+    },
+    "customOverlays": true
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/ArishikiTodo/AsukaMomi/main/8fddc859-f269-4576-a526-5d1f861d44e5.jpg",
+    "alpha": 0.7,
+    "blur": 0
+  }
+}
